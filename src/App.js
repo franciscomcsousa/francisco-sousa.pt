@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import linkedInLogo from './linkedin.svg'
 import githubLogo from './github.svg'
 import './App.css';
